@@ -1,7 +1,7 @@
 {
 	"name": "app-name",
 	"productName": "App Name",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"description": "The best app ever",
 	"license": "MIT",
 	"repository": "sindresorhus/electron-boilerplate",
