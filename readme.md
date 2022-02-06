@@ -1,6 +1,11 @@
 # Лаунчер для игр серии Stalker
+![Alt Text](https://github.com/infabls/testLauncher/raw/main/static/tiser.gif)
+> Попытка воплотить лаунчер мечты
 
-> The best app ever
+## Возможности
+- Автообновления
+- Менеджер модов
+- Облачные сохранения
 
 ## Install
 
